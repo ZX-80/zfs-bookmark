@@ -26,7 +26,7 @@ to create a new user called "bookmark-user"
 
 ### 2. Download the script
 
-Download the Python script and place it wherever you like. Then run `chmod +x bookmark_all.py` to make it executable.
+Download the Python script and place it wherever you like (make sure your new user has permissions to access it). Then run `chmod +x bookmark_all.py` to make it executable.
 
 ### 3. Run the script automatically
 
