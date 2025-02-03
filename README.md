@@ -43,3 +43,6 @@ to create a job with the folling parameters:
 - Hide Standard Error: `Unchecked`
   - This setting and the previous setting can be checked if you don't want to recieve status emails
 - Enabled: `Checked`
+
+You can always verify functionality by running `sudo zfs list -t bookmark` to view all existing bookmarks.
+
